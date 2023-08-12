@@ -3,7 +3,8 @@
 # Data Structure
 
 ## Array
-- [v] Dynamic Array
+- [x] Dynamic Array
+- [ ] 2D Array Implement
 - [ ] Minesweeper
 
 ## Linked List
@@ -11,6 +12,12 @@
 - [ ] Circular Linked List
 - [ ] Bidirectional Linked List
 - [ ] Maze
+
+## Array & Linked List
+- [x] Array vs Linked List
+- [ ] polynomial
+- [ ] Matrix
+- [ ] Sparse Matrix
 
 ## Stack & Queue
 - [ ] Stack in Linked List
