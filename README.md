@@ -4,29 +4,28 @@
 
 ## Array
 - [x] Dynamic Array
-- [ ] 2D Array Implement
+- [x] 2D Array Implement
 - [ ] Minesweeper
 
 ## Linked List
 - [ ] Linked List
 - [ ] Circular Linked List
 - [ ] Bidirectional Linked List
-- [ ] Maze
 
 ## Array & Linked List
 - [x] Array vs Linked List
 - [ ] polynomial
-- [ ] Matrix
+- [x] Matrix
 - [ ] Sparse Matrix
 
 ## Stack & Queue
 - [ ] Stack in Linked List
-- [ ] Infix Prefix and Postfix
-
 - [ ] Queue in Linked List
+- [ ] Infix Prefix and Postfix
+- [ ] Queue in Stack
+- [ ] Stack in Queue
 
-- [ ] Queue in Stack (c++)
-- [ ] Stack in Queue (c++)
+- [ ] Maze
 
 ## Tree
 

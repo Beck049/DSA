@@ -41,8 +41,6 @@
 |刪資料速度|O(n)|O(1)|
 |插入資料|O(n)|O(1)|
 
-## 2D array implement
-
 ## Application
 
 - Polynomial

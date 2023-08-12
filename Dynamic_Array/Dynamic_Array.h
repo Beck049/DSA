@@ -7,10 +7,9 @@ typedef struct darr_s {
 typedef darr_t *darr;
 
 class DarrContainer {
-private:
+public:
     darr_s darrInfo;
 
-public:
     // Constructor to initialize the struct's values
     DarrContainer(int* dataArray, int length) {
         darrInfo.data = dataArray;
